@@ -74,6 +74,7 @@ public class Student {
         Collections.sort(studentList, new SortName());
         
         for (int i = 0; i < studentList.size(); i++)
+        	// prints to txt file
         	out.println(studentList.get(i));
         	out.close();
        
