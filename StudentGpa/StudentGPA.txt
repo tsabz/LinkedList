@@ -1,0 +1,15 @@
+Name: Jenny
+Address: 88rockafeller
+GPA: 3.8
+
+
+Name: Nikki
+Address: 55spring
+GPA: 3.8
+
+
+Name: Tonia
+Address: 55spring
+GPA: 3.9
+
+
